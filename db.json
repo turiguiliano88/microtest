@@ -1,9 +1,6 @@
 {
   "api": {
     "topology": {
-      "network": {
-        
-      },
       "nodes": [
         {
           "id": 1,
@@ -13,7 +10,7 @@
           "id": 2,
           "ip": "35.12.53.123"
         }
-      ]
+      ],
       "pcepNodes": [
         {
           "id": 1,
